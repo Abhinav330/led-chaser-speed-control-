@@ -1,5 +1,5 @@
 # led-chaser-speed-control-
-# arduino tutorials  # #ATALL
+# arduino tutorials   #ATALL
 
 Parts required :
 
@@ -12,5 +12,4 @@ Parts required :
 
 
 Watch this video for full details :
-
-~~~~~~~~~~~~(comming soon)~~~~~~~~~~~~~~~~
+https://youtu.be/-K5RDNjAUcs
